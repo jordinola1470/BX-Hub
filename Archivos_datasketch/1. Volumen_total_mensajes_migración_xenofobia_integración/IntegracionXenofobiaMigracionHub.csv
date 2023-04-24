@@ -1,0 +1,793 @@
+Pais ;Variable;Fecha;Dato
+Colombia;Integracion;2020-12-28 05:00:00.0;85
+Colombia;Integracion;2021-01-04 05:00:00.0;421
+Colombia;Integracion;2021-01-11 05:00:00.0;322
+Colombia;Integracion;2021-01-18 05:00:00.0;500
+Colombia;Integracion;2021-01-25 05:00:00.0;480
+Colombia;Integracion;2021-02-01 05:00:00.0;348
+Colombia;Integracion;2021-02-08 05:00:00.0;9167
+Colombia;Integracion;2021-02-15 05:00:00.0;1000
+Colombia;Integracion;2021-02-22 05:00:00.0;1127
+Colombia;Integracion;2021-03-01 05:00:00.0;1707
+Colombia;Integracion;2021-03-08 05:00:00.0;9312
+Colombia;Integracion;2021-03-15 05:00:00.0;1705
+Colombia;Integracion;2021-03-22 05:00:00.0;912
+Colombia;Integracion;2021-03-29 05:00:00.0;764
+Colombia;Integracion;2021-04-05 05:00:00.0;794
+Colombia;Integracion;2021-04-12 05:00:00.0;680
+Colombia;Integracion;2021-04-19 05:00:00.0;798
+Colombia;Integracion;2021-04-26 05:00:00.0;799
+Colombia;Integracion;2021-05-03 05:00:00.0;1488
+Colombia;Integracion;2021-05-10 05:00:00.0;549
+Colombia;Integracion;2021-05-17 05:00:00.0;656
+Colombia;Integracion;2021-05-24 05:00:00.0;864
+Colombia;Integracion;2021-05-31 05:00:00.0;480
+Colombia;Integracion;2021-06-07 05:00:00.0;1509
+Colombia;Integracion;2021-06-14 05:00:00.0;971
+Colombia;Integracion;2021-06-21 05:00:00.0;491
+Colombia;Integracion;2021-06-28 05:00:00.0;486
+Colombia;Integracion;2021-07-05 05:00:00.0;557
+Colombia;Integracion;2021-07-12 05:00:00.0;434
+Colombia;Integracion;2021-07-19 05:00:00.0;434
+Colombia;Integracion;2021-07-26 05:00:00.0;1153
+Colombia;Integracion;2021-08-02 05:00:00.0;547
+Colombia;Integracion;2021-08-09 05:00:00.0;923
+Colombia;Integracion;2021-08-16 05:00:00.0;4144
+Colombia;Integracion;2021-08-23 05:00:00.0;1067
+Colombia;Integracion;2021-08-30 05:00:00.0;571
+Colombia;Integracion;2021-09-06 05:00:00.0;808
+Colombia;Integracion;2021-09-13 05:00:00.0;802
+Colombia;Integracion;2021-09-20 05:00:00.0;1122
+Colombia;Integracion;2021-09-27 05:00:00.0;616
+Colombia;Integracion;2021-10-04 05:00:00.0;818
+Colombia;Integracion;2021-10-11 05:00:00.0;825
+Colombia;Integracion;2021-10-18 05:00:00.0;617
+Colombia;Integracion;2021-10-25 05:00:00.0;652
+Colombia;Integracion;2021-11-01 05:00:00.0;384
+Colombia;Integracion;2021-11-08 05:00:00.0;386
+Colombia;Integracion;2021-11-15 05:00:00.0;422
+Colombia;Integracion;2021-11-22 05:00:00.0;502
+Colombia;Integracion;2021-11-29 05:00:00.0;452
+Colombia;Integracion;2021-12-06 05:00:00.0;410
+Colombia;Integracion;2021-12-13 05:00:00.0;744
+Colombia;Integracion;2021-12-20 05:00:00.0;524
+Colombia;Integracion;2021-12-27 05:00:00.0;424
+Colombia;Integracion;2022-01-03 05:00:00.0;368
+Colombia;Integracion;2022-01-10 05:00:00.0;425
+Colombia;Integracion;2022-01-17 05:00:00.0;479
+Colombia;Integracion;2022-01-24 05:00:00.0;440
+Colombia;Integracion;2022-01-31 05:00:00.0;634
+Colombia;Integracion;2022-02-07 05:00:00.0;774
+Colombia;Integracion;2022-02-14 05:00:00.0;1235
+Colombia;Integracion;2022-02-21 05:00:00.0;976
+Colombia;Integracion;2022-02-28 05:00:00.0;2162
+Colombia;Integracion;2022-03-07 05:00:00.0;698
+Colombia;Integracion;2022-03-14 05:00:00.0;572
+Colombia;Integracion;2022-03-21 05:00:00.0;782
+Colombia;Integracion;2022-03-28 05:00:00.0;715
+Colombia;Integracion;2022-04-04 05:00:00.0;642
+Colombia;Integracion;2022-04-11 05:00:00.0;742
+Colombia;Integracion;2022-04-18 05:00:00.0;680
+Colombia;Integracion;2022-04-25 05:00:00.0;743
+Colombia;Integracion;2022-05-02 05:00:00.0;527
+Colombia;Integracion;2022-05-09 05:00:00.0;522
+Colombia;Integracion;2022-05-16 05:00:00.0;1605
+Colombia;Integracion;2022-05-23 05:00:00.0;938
+Colombia;Integracion;2022-05-30 05:00:00.0;553
+Colombia;Integracion;2022-06-06 05:00:00.0;699
+Colombia;Integracion;2022-06-13 05:00:00.0;640
+Colombia;Integracion;2022-06-20 05:00:00.0;1451
+Colombia;Integracion;2022-06-27 05:00:00.0;314
+Colombia;Integracion;2022-07-04 05:00:00.0;325
+Colombia;Integracion;2022-07-11 05:00:00.0;342
+Colombia;Integracion;2022-07-18 05:00:00.0;356
+Colombia;Integracion;2022-07-25 05:00:00.0;572
+Colombia;Integracion;2022-08-01 05:00:00.0;512
+Colombia;Integracion;2022-08-08 05:00:00.0;540
+Colombia;Integracion;2022-08-15 05:00:00.0;439
+Colombia;Integracion;2022-08-22 05:00:00.0;509
+Colombia;Integracion;2022-08-29 05:00:00.0;502
+Colombia;Integracion;2022-09-05 05:00:00.0;881
+Colombia;Integracion;2022-09-12 05:00:00.0;552
+Colombia;Integracion;2022-09-19 05:00:00.0;954
+Colombia;Integracion;2022-09-26 05:00:00.0;1863
+Colombia;Integracion;2022-10-03 05:00:00.0;737
+Colombia;Integracion;2022-10-10 05:00:00.0;769
+Colombia;Integracion;2022-10-17 05:00:00.0;658
+Colombia;Integracion;2022-10-24 05:00:00.0;604
+Colombia;Integracion;2022-10-31 05:00:00.0;764
+Colombia;Integracion;2022-11-07 05:00:00.0;618
+Colombia;Integracion;2022-11-14 05:00:00.0;434
+Colombia;Integracion;2022-11-21 05:00:00.0;494
+Colombia;Integracion;2022-11-28 05:00:00.0;398
+Colombia;Integracion;2022-12-05 05:00:00.0;378
+Colombia;Integracion;2022-12-12 05:00:00.0;415
+Colombia;Integracion;2022-12-19 05:00:00.0;460
+Colombia;Integracion;2022-12-26 05:00:00.0;249
+Colombia;Integracion;2023-01-02 05:00:00.0;311
+Colombia;Integracion;2023-01-09 05:00:00.0;455
+Colombia;Integracion;2023-01-16 05:00:00.0;374
+Colombia;Integracion;2023-01-23 05:00:00.0;428
+Colombia;Integracion;2023-01-30 05:00:00.0;338
+Colombia;Integracion;2023-02-06 05:00:00.0;325
+Colombia;Integracion;2023-02-13 05:00:00.0;388
+Colombia;Integracion;2023-02-20 05:00:00.0;385
+Colombia;Integracion;2023-02-27 05:00:00.0;297
+Colombia;Xenofobia ;2020-12-28 05:00:00.0;232
+Colombia;Xenofobia ;2021-01-04 05:00:00.0;880
+Colombia;Xenofobia ;2021-01-11 05:00:00.0;863
+Colombia;Xenofobia ;2021-01-18 05:00:00.0;1056
+Colombia;Xenofobia ;2021-01-25 05:00:00.0;690
+Colombia;Xenofobia ;2021-02-01 05:00:00.0;613
+Colombia;Xenofobia ;2021-02-08 05:00:00.0;4530
+Colombia;Xenofobia ;2021-02-15 05:00:00.0;894
+Colombia;Xenofobia ;2021-02-22 05:00:00.0;789
+Colombia;Xenofobia ;2021-03-01 05:00:00.0;776
+Colombia;Xenofobia ;2021-03-08 05:00:00.0;3521
+Colombia;Xenofobia ;2021-03-15 05:00:00.0;1187
+Colombia;Xenofobia ;2021-03-22 05:00:00.0;872
+Colombia;Xenofobia ;2021-03-29 05:00:00.0;1019
+Colombia;Xenofobia ;2021-04-05 05:00:00.0;1147
+Colombia;Xenofobia ;2021-04-12 05:00:00.0;850
+Colombia;Xenofobia ;2021-04-19 05:00:00.0;1033
+Colombia;Xenofobia ;2021-04-26 05:00:00.0;1816
+Colombia;Xenofobia ;2021-05-03 05:00:00.0;2027
+Colombia;Xenofobia ;2021-05-10 05:00:00.0;938
+Colombia;Xenofobia ;2021-05-17 05:00:00.0;1184
+Colombia;Xenofobia ;2021-05-24 05:00:00.0;824
+Colombia;Xenofobia ;2021-05-31 05:00:00.0;2488
+Colombia;Xenofobia ;2021-06-07 05:00:00.0;1363
+Colombia;Xenofobia ;2021-06-14 05:00:00.0;1169
+Colombia;Xenofobia ;2021-06-21 05:00:00.0;626
+Colombia;Xenofobia ;2021-06-28 05:00:00.0;860
+Colombia;Xenofobia ;2021-07-05 05:00:00.0;1216
+Colombia;Xenofobia ;2021-07-12 05:00:00.0;1418
+Colombia;Xenofobia ;2021-07-19 05:00:00.0;639
+Colombia;Xenofobia ;2021-07-26 05:00:00.0;1100
+Colombia;Xenofobia ;2021-08-02 05:00:00.0;603
+Colombia;Xenofobia ;2021-08-09 05:00:00.0;1743
+Colombia;Xenofobia ;2021-08-16 05:00:00.0;2064
+Colombia;Xenofobia ;2021-08-23 05:00:00.0;931
+Colombia;Xenofobia ;2021-08-30 05:00:00.0;955
+Colombia;Xenofobia ;2021-09-06 05:00:00.0;1189
+Colombia;Xenofobia ;2021-09-13 05:00:00.0;877
+Colombia;Xenofobia ;2021-09-20 05:00:00.0;1153
+Colombia;Xenofobia ;2021-09-27 05:00:00.0;2158
+Colombia;Xenofobia ;2021-10-04 05:00:00.0;1254
+Colombia;Xenofobia ;2021-10-11 05:00:00.0;829
+Colombia;Xenofobia ;2021-10-18 05:00:00.0;1124
+Colombia;Xenofobia ;2021-10-25 05:00:00.0;628
+Colombia;Xenofobia ;2021-11-01 05:00:00.0;841
+Colombia;Xenofobia ;2021-11-08 05:00:00.0;969
+Colombia;Xenofobia ;2021-11-15 05:00:00.0;889
+Colombia;Xenofobia ;2021-11-22 05:00:00.0;684
+Colombia;Xenofobia ;2021-11-29 05:00:00.0;670
+Colombia;Xenofobia ;2021-12-06 05:00:00.0;727
+Colombia;Xenofobia ;2021-12-13 05:00:00.0;714
+Colombia;Xenofobia ;2021-12-20 05:00:00.0;879
+Colombia;Xenofobia ;2021-12-27 05:00:00.0;1091
+Colombia;Xenofobia ;2022-01-03 05:00:00.0;752
+Colombia;Xenofobia ;2022-01-10 05:00:00.0;1675
+Colombia;Xenofobia ;2022-01-17 05:00:00.0;846
+Colombia;Xenofobia ;2022-01-24 05:00:00.0;863
+Colombia;Xenofobia ;2022-01-31 05:00:00.0;836
+Colombia;Xenofobia ;2022-02-07 05:00:00.0;1211
+Colombia;Xenofobia ;2022-02-14 05:00:00.0;1247
+Colombia;Xenofobia ;2022-02-21 05:00:00.0;1333
+Colombia;Xenofobia ;2022-02-28 05:00:00.0;1229
+Colombia;Xenofobia ;2022-03-07 05:00:00.0;782
+Colombia;Xenofobia ;2022-03-14 05:00:00.0;764
+Colombia;Xenofobia ;2022-03-21 05:00:00.0;1042
+Colombia;Xenofobia ;2022-03-28 05:00:00.0;1078
+Colombia;Xenofobia ;2022-04-04 05:00:00.0;1015
+Colombia;Xenofobia ;2022-04-11 05:00:00.0;1732
+Colombia;Xenofobia ;2022-04-18 05:00:00.0;935
+Colombia;Xenofobia ;2022-04-25 05:00:00.0;875
+Colombia;Xenofobia ;2022-05-02 05:00:00.0;897
+Colombia;Xenofobia ;2022-05-09 05:00:00.0;1519
+Colombia;Xenofobia ;2022-05-16 05:00:00.0;788
+Colombia;Xenofobia ;2022-05-23 05:00:00.0;1426
+Colombia;Xenofobia ;2022-05-30 05:00:00.0;4800
+Colombia;Xenofobia ;2022-06-06 05:00:00.0;1096
+Colombia;Xenofobia ;2022-06-13 05:00:00.0;1241
+Colombia;Xenofobia ;2022-06-20 05:00:00.0;1298
+Colombia;Xenofobia ;2022-06-27 05:00:00.0;824
+Colombia;Xenofobia ;2022-07-04 05:00:00.0;719
+Colombia;Xenofobia ;2022-07-11 05:00:00.0;1130
+Colombia;Xenofobia ;2022-07-18 05:00:00.0;575
+Colombia;Xenofobia ;2022-07-25 05:00:00.0;638
+Colombia;Xenofobia ;2022-08-01 05:00:00.0;536
+Colombia;Xenofobia ;2022-08-08 05:00:00.0;684
+Colombia;Xenofobia ;2022-08-15 05:00:00.0;616
+Colombia;Xenofobia ;2022-08-22 05:00:00.0;1136
+Colombia;Xenofobia ;2022-08-29 05:00:00.0;649
+Colombia;Xenofobia ;2022-09-05 05:00:00.0;1226
+Colombia;Xenofobia ;2022-09-12 05:00:00.0;1147
+Colombia;Xenofobia ;2022-09-19 05:00:00.0;942
+Colombia;Xenofobia ;2022-09-26 05:00:00.0;967
+Colombia;Xenofobia ;2022-10-03 05:00:00.0;1073
+Colombia;Xenofobia ;2022-10-10 05:00:00.0;2198
+Colombia;Xenofobia ;2022-10-17 05:00:00.0;1095
+Colombia;Xenofobia ;2022-10-24 05:00:00.0;957
+Colombia;Xenofobia ;2022-10-31 05:00:00.0;1265
+Colombia;Xenofobia ;2022-11-07 05:00:00.0;999
+Colombia;Xenofobia ;2022-11-14 05:00:00.0;731
+Colombia;Xenofobia ;2022-11-21 05:00:00.0;788
+Colombia;Xenofobia ;2022-11-28 05:00:00.0;815
+Colombia;Xenofobia ;2022-12-05 05:00:00.0;1257
+Colombia;Xenofobia ;2022-12-12 05:00:00.0;861
+Colombia;Xenofobia ;2022-12-19 05:00:00.0;1009
+Colombia;Xenofobia ;2022-12-26 05:00:00.0;1513
+Colombia;Xenofobia ;2023-01-02 05:00:00.0;1461
+Colombia;Xenofobia ;2023-01-09 05:00:00.0;1598
+Colombia;Xenofobia ;2023-01-16 05:00:00.0;1294
+Colombia;Xenofobia ;2023-01-23 05:00:00.0;764
+Colombia;Xenofobia ;2023-01-30 05:00:00.0;1099
+Colombia;Xenofobia ;2023-02-06 05:00:00.0;1120
+Colombia;Xenofobia ;2023-02-13 05:00:00.0;1298
+Colombia;Xenofobia ;2023-02-20 05:00:00.0;1082
+Colombia;Xenofobia ;2023-02-27 05:00:00.0;287
+Ecuador;Xenofobia ;2021-12-27 05:00:00.0;53
+Ecuador;Xenofobia ;2022-01-03 05:00:00.0;169
+Ecuador;Xenofobia ;2022-01-10 05:00:00.0;185
+Ecuador;Xenofobia ;2022-01-17 05:00:00.0;202
+Ecuador;Xenofobia ;2022-01-24 05:00:00.0;196
+Ecuador;Xenofobia ;2022-01-31 05:00:00.0;262
+Ecuador;Xenofobia ;2022-02-07 05:00:00.0;95
+Ecuador;Xenofobia ;2022-02-14 05:00:00.0;83
+Ecuador;Xenofobia ;2022-02-21 05:00:00.0;244
+Ecuador;Xenofobia ;2022-02-28 05:00:00.0;93
+Ecuador;Xenofobia ;2022-03-07 05:00:00.0;104
+Ecuador;Xenofobia ;2022-03-14 05:00:00.0;120
+Ecuador;Xenofobia ;2022-03-21 05:00:00.0;243
+Ecuador;Xenofobia ;2022-03-28 05:00:00.0;411
+Ecuador;Xenofobia ;2022-04-04 05:00:00.0;98
+Ecuador;Xenofobia ;2022-04-11 05:00:00.0;218
+Ecuador;Xenofobia ;2022-04-18 05:00:00.0;169
+Ecuador;Xenofobia ;2022-04-25 05:00:00.0;156
+Ecuador;Xenofobia ;2022-05-02 05:00:00.0;170
+Ecuador;Xenofobia ;2022-05-09 05:00:00.0;197
+Ecuador;Xenofobia ;2022-05-16 05:00:00.0;193
+Ecuador;Xenofobia ;2022-05-23 05:00:00.0;275
+Ecuador;Xenofobia ;2022-05-30 05:00:00.0;795
+Ecuador;Xenofobia ;2022-06-06 05:00:00.0;278
+Ecuador;Xenofobia ;2022-06-13 05:00:00.0;612
+Ecuador;Xenofobia ;2022-06-20 05:00:00.0;1254
+Ecuador;Xenofobia ;2022-06-27 05:00:00.0;527
+Ecuador;Xenofobia ;2022-07-04 05:00:00.0;170
+Ecuador;Xenofobia ;2022-07-11 05:00:00.0;328
+Ecuador;Xenofobia ;2022-07-18 05:00:00.0;73
+Ecuador;Xenofobia ;2022-07-25 05:00:00.0;86
+Ecuador;Xenofobia ;2022-08-01 05:00:00.0;84
+Ecuador;Xenofobia ;2022-08-08 05:00:00.0;151
+Ecuador;Xenofobia ;2022-08-15 05:00:00.0;166
+Ecuador;Xenofobia ;2022-08-22 05:00:00.0;155
+Ecuador;Xenofobia ;2022-08-29 05:00:00.0;101
+Ecuador;Xenofobia ;2022-09-05 05:00:00.0;272
+Ecuador;Xenofobia ;2022-09-12 05:00:00.0;3
+Ecuador;Xenofobia ;2022-09-19 05:00:00.0;28
+Ecuador;Xenofobia ;2022-09-26 05:00:00.0;161
+Ecuador;Xenofobia ;2022-10-03 05:00:00.0;192
+Ecuador;Xenofobia ;2022-10-10 05:00:00.0;1119
+Ecuador;Xenofobia ;2022-10-17 05:00:00.0;352
+Ecuador;Xenofobia ;2022-10-24 05:00:00.0;675
+Ecuador;Xenofobia ;2022-10-31 05:00:00.0;385
+Ecuador;Xenofobia ;2022-11-07 05:00:00.0;339
+Ecuador;Xenofobia ;2022-11-14 05:00:00.0;414
+Ecuador;Xenofobia ;2022-11-21 05:00:00.0;151
+Ecuador;Xenofobia ;2022-11-28 05:00:00.0;231
+Ecuador;Xenofobia ;2022-12-05 05:00:00.0;383
+Ecuador;Xenofobia ;2022-12-12 05:00:00.0;662
+Ecuador;Xenofobia ;2022-12-19 05:00:00.0;245
+Ecuador;Xenofobia ;2022-12-26 05:00:00.0;341
+Ecuador;Xenofobia ;2023-01-02 05:00:00.0;346
+Ecuador;Xenofobia ;2023-01-09 05:00:00.0;614
+Ecuador;Xenofobia ;2023-01-16 05:00:00.0;582
+Ecuador;Xenofobia ;2023-01-23 05:00:00.0;313
+Ecuador;Xenofobia ;2023-01-30 05:00:00.0;522
+Ecuador;Xenofobia ;2023-02-06 05:00:00.0;903
+Ecuador;Xenofobia ;2023-02-13 05:00:00.0;2911
+Ecuador;Xenofobia ;2023-02-20 05:00:00.0;761
+Ecuador;Xenofobia ;2023-02-27 05:00:00.0;517
+Ecuador;Xenofobia ;2023-03-06 05:00:00.0;913
+Ecuador;Xenofobia ;2023-03-13 05:00:00.0;1125
+Ecuador;Xenofobia ;2023-03-20 05:00:00.0;838
+Ecuador;Xenofobia ;2023-03-27 05:00:00.0;515
+Peru;Integracion;2021-12-27 03:00:00.0;54
+Peru;Integracion;2022-01-03 03:00:00.0;238
+Peru;Integracion;2022-01-10 03:00:00.0;263
+Peru;Integracion;2022-01-17 03:00:00.0;476
+Peru;Integracion;2022-01-24 03:00:00.0;305
+Peru;Integracion;2022-01-31 03:00:00.0;468
+Peru;Integracion;2022-02-07 03:00:00.0;690
+Peru;Integracion;2022-02-14 03:00:00.0;387
+Peru;Integracion;2022-02-21 03:00:00.0;765
+Peru;Integracion;2022-02-28 03:00:00.0;364
+Peru;Integracion;2022-03-07 03:00:00.0;292
+Peru;Integracion;2022-03-14 03:00:00.0;827
+Peru;Integracion;2022-03-21 03:00:00.0;752
+Peru;Integracion;2022-03-28 03:00:00.0;231
+Peru;Integracion;2022-04-04 04:00:00.0;452
+Peru;Integracion;2022-04-11 04:00:00.0;470
+Peru;Integracion;2022-04-18 04:00:00.0;296
+Peru;Integracion;2022-04-25 04:00:00.0;320
+Peru;Integracion;2022-05-02 04:00:00.0;2881
+Peru;Integracion;2022-05-09 04:00:00.0;2328
+Peru;Integracion;2022-05-16 04:00:00.0;393
+Peru;Integracion;2022-05-23 04:00:00.0;309
+Peru;Integracion;2022-05-30 04:00:00.0;255
+Peru;Integracion;2022-06-06 04:00:00.0;256
+Peru;Integracion;2022-06-13 04:00:00.0;294
+Peru;Integracion;2022-06-20 04:00:00.0;278
+Peru;Integracion;2022-06-27 04:00:00.0;270
+Peru;Integracion;2022-07-04 04:00:00.0;272
+Peru;Integracion;2022-07-11 04:00:00.0;295
+Peru;Integracion;2022-07-18 04:00:00.0;242
+Peru;Integracion;2022-07-25 04:00:00.0;546
+Peru;Integracion;2022-08-01 04:00:00.0;333
+Peru;Integracion;2022-08-08 04:00:00.0;630
+Peru;Integracion;2022-08-15 04:00:00.0;249
+Peru;Integracion;2022-08-22 04:00:00.0;217
+Peru;Integracion;2022-08-29 04:00:00.0;229
+Peru;Integracion;2022-09-05 03:00:00.0;274
+Peru;Integracion;2022-09-12 03:00:00.0;312
+Peru;Integracion;2022-09-19 03:00:00.0;320
+Peru;Integracion;2022-09-26 03:00:00.0;596
+Peru;Integracion;2022-10-03 03:00:00.0;333
+Peru;Integracion;2022-10-10 03:00:00.0;406
+Peru;Integracion;2022-10-17 03:00:00.0;408
+Peru;Integracion;2022-10-24 03:00:00.0;340
+Peru;Integracion;2022-10-31 03:00:00.0;477
+Peru;Integracion;2022-11-07 03:00:00.0;297
+Peru;Integracion;2022-11-14 03:00:00.0;303
+Peru;Integracion;2022-11-21 03:00:00.0;286
+Peru;Integracion;2022-11-28 03:00:00.0;297
+Peru;Integracion;2022-12-05 03:00:00.0;328
+Peru;Integracion;2022-12-12 03:00:00.0;350
+Peru;Integracion;2022-12-19 03:00:00.0;292
+Peru;Integracion;2022-12-26 03:00:00.0;450
+Peru;Integracion;2023-01-02 03:00:00.0;279
+Peru;Integracion;2023-01-09 03:00:00.0;449
+Peru;Integracion;2023-01-16 03:00:00.0;452
+Peru;Integracion;2023-01-23 03:00:00.0;722
+Peru;Integracion;2023-01-30 03:00:00.0;406
+Peru;Integracion;2023-02-06 03:00:00.0;401
+Peru;Integracion;2023-02-13 03:00:00.0;423
+Peru;Integracion;2023-02-20 03:00:00.0;371
+Peru;Integracion;2023-02-27 03:00:00.0;717
+Peru;Integracion;2023-03-06 03:00:00.0;391
+Peru;Integracion;2023-03-13 03:00:00.0;511
+Peru;Integracion;2023-03-20 03:00:00.0;539
+Peru;Integracion;2023-03-27 03:00:00.0;368
+Peru;Integracion;2023-04-03 04:00:00.0;760
+Peru;Integracion;2023-04-10 04:00:00.0;1728
+Peru;Integracion;2023-04-17 04:00:00.0;357
+Peru;Xenofobia ;2021-12-27 03:00:00.0;71
+Peru;Xenofobia ;2022-01-03 03:00:00.0;229
+Peru;Xenofobia ;2022-01-10 03:00:00.0;321
+Peru;Xenofobia ;2022-01-17 03:00:00.0;389
+Peru;Xenofobia ;2022-01-24 03:00:00.0;376
+Peru;Xenofobia ;2022-01-31 03:00:00.0;321
+Peru;Xenofobia ;2022-02-07 03:00:00.0;350
+Peru;Xenofobia ;2022-02-14 03:00:00.0;359
+Peru;Xenofobia ;2022-02-21 03:00:00.0;464
+Peru;Xenofobia ;2022-02-28 03:00:00.0;274
+Peru;Xenofobia ;2022-03-07 03:00:00.0;216
+Peru;Xenofobia ;2022-03-14 03:00:00.0;282
+Peru;Xenofobia ;2022-03-21 03:00:00.0;262
+Peru;Xenofobia ;2022-03-28 03:00:00.0;250
+Peru;Xenofobia ;2022-04-04 04:00:00.0;808
+Peru;Xenofobia ;2022-04-11 04:00:00.0;393
+Peru;Xenofobia ;2022-04-18 04:00:00.0;465
+Peru;Xenofobia ;2022-04-25 04:00:00.0;237
+Peru;Xenofobia ;2022-05-02 04:00:00.0;1023
+Peru;Xenofobia ;2022-05-09 04:00:00.0;414
+Peru;Xenofobia ;2022-05-16 04:00:00.0;287
+Peru;Xenofobia ;2022-05-23 04:00:00.0;235
+Peru;Xenofobia ;2022-05-30 04:00:00.0;302
+Peru;Xenofobia ;2022-06-06 04:00:00.0;253
+Peru;Xenofobia ;2022-06-13 04:00:00.0;236
+Peru;Xenofobia ;2022-06-20 04:00:00.0;241
+Peru;Xenofobia ;2022-06-27 04:00:00.0;203
+Peru;Xenofobia ;2022-07-04 04:00:00.0;179
+Peru;Xenofobia ;2022-07-11 04:00:00.0;169
+Peru;Xenofobia ;2022-07-18 04:00:00.0;137
+Peru;Xenofobia ;2022-07-25 04:00:00.0;250
+Peru;Xenofobia ;2022-08-01 04:00:00.0;247
+Peru;Xenofobia ;2022-08-08 04:00:00.0;353
+Peru;Xenofobia ;2022-08-15 04:00:00.0;178
+Peru;Xenofobia ;2022-08-22 04:00:00.0;199
+Peru;Xenofobia ;2022-08-29 04:00:00.0;205
+Peru;Xenofobia ;2022-09-05 03:00:00.0;228
+Peru;Xenofobia ;2022-09-12 03:00:00.0;231
+Peru;Xenofobia ;2022-09-19 03:00:00.0;207
+Peru;Xenofobia ;2022-09-26 03:00:00.0;303
+Peru;Xenofobia ;2022-10-03 03:00:00.0;187
+Peru;Xenofobia ;2022-10-10 03:00:00.0;441
+Peru;Xenofobia ;2022-10-17 03:00:00.0;279
+Peru;Xenofobia ;2022-10-24 03:00:00.0;300
+Peru;Xenofobia ;2022-10-31 03:00:00.0;514
+Peru;Xenofobia ;2022-11-07 03:00:00.0;313
+Peru;Xenofobia ;2022-11-14 03:00:00.0;262
+Peru;Xenofobia ;2022-11-21 03:00:00.0;359
+Peru;Xenofobia ;2022-11-28 03:00:00.0;280
+Peru;Xenofobia ;2022-12-05 03:00:00.0;691
+Peru;Xenofobia ;2022-12-12 03:00:00.0;500
+Peru;Xenofobia ;2022-12-19 03:00:00.0;456
+Peru;Xenofobia ;2022-12-26 03:00:00.0;451
+Peru;Xenofobia ;2023-01-02 03:00:00.0;447
+Peru;Xenofobia ;2023-01-09 03:00:00.0;773
+Peru;Xenofobia ;2023-01-16 03:00:00.0;1767
+Peru;Xenofobia ;2023-01-23 03:00:00.0;905
+Peru;Xenofobia ;2023-01-30 03:00:00.0;458
+Peru;Xenofobia ;2023-02-06 03:00:00.0;398
+Peru;Xenofobia ;2023-02-13 03:00:00.0;325
+Peru;Xenofobia ;2023-02-20 03:00:00.0;267
+Peru;Xenofobia ;2023-02-27 03:00:00.0;568
+Peru;Xenofobia ;2023-03-06 03:00:00.0;266
+Peru;Xenofobia ;2023-03-13 03:00:00.0;301
+Peru;Xenofobia ;2023-03-20 03:00:00.0;468
+Peru;Xenofobia ;2023-03-27 03:00:00.0;239
+Peru;Xenofobia ;2023-04-03 04:00:00.0;565
+Peru;Xenofobia ;2023-04-10 04:00:00.0;1170
+Peru;Xenofobia ;2023-04-17 04:00:00.0;901
+Ecuador;Integracion;2021-12-27 05:00:00.0;9
+Ecuador;Integracion;2022-01-03 05:00:00.0;50
+Ecuador;Integracion;2022-01-10 05:00:00.0;85
+Ecuador;Integracion;2022-01-17 05:00:00.0;64
+Ecuador;Integracion;2022-01-24 05:00:00.0;95
+Ecuador;Integracion;2022-01-31 05:00:00.0;71
+Ecuador;Integracion;2022-02-07 05:00:00.0;148
+Ecuador;Integracion;2022-02-14 05:00:00.0;88
+Ecuador;Integracion;2022-02-21 05:00:00.0;85
+Ecuador;Integracion;2022-02-28 05:00:00.0;136
+Ecuador;Integracion;2022-03-07 05:00:00.0;81
+Ecuador;Integracion;2022-03-14 05:00:00.0;47
+Ecuador;Integracion;2022-03-21 05:00:00.0;73
+Ecuador;Integracion;2022-03-28 05:00:00.0;71
+Ecuador;Integracion;2022-04-04 05:00:00.0;46
+Ecuador;Integracion;2022-04-11 05:00:00.0;48
+Ecuador;Integracion;2022-04-18 05:00:00.0;158
+Ecuador;Integracion;2022-04-25 05:00:00.0;38
+Ecuador;Integracion;2022-05-02 05:00:00.0;66
+Ecuador;Integracion;2022-05-09 05:00:00.0;47
+Ecuador;Integracion;2022-05-16 05:00:00.0;62
+Ecuador;Integracion;2022-05-23 05:00:00.0;95
+Ecuador;Integracion;2022-05-30 05:00:00.0;536
+Ecuador;Integracion;2022-06-06 05:00:00.0;115
+Ecuador;Integracion;2022-06-13 05:00:00.0;241
+Ecuador;Integracion;2022-06-20 05:00:00.0;218
+Ecuador;Integracion;2022-06-27 05:00:00.0;119
+Ecuador;Integracion;2022-07-04 05:00:00.0;66
+Ecuador;Integracion;2022-07-11 05:00:00.0;45
+Ecuador;Integracion;2022-07-18 05:00:00.0;39
+Ecuador;Integracion;2022-07-25 05:00:00.0;71
+Ecuador;Integracion;2022-08-01 05:00:00.0;164
+Ecuador;Integracion;2022-08-08 05:00:00.0;161
+Ecuador;Integracion;2022-08-15 05:00:00.0;98
+Ecuador;Integracion;2022-08-22 05:00:00.0;80
+Ecuador;Integracion;2022-08-29 05:00:00.0;51
+Ecuador;Integracion;2022-09-05 05:00:00.0;56
+Ecuador;Integracion;2022-09-12 05:00:00.0;0
+Ecuador;Integracion;2022-09-19 05:00:00.0;2
+Ecuador;Integracion;2022-09-26 05:00:00.0;217
+Ecuador;Integracion;2022-10-03 05:00:00.0;153
+Ecuador;Integracion;2022-10-10 05:00:00.0;279
+Ecuador;Integracion;2022-10-17 05:00:00.0;98
+Ecuador;Integracion;2022-10-24 05:00:00.0;102
+Ecuador;Integracion;2022-10-31 05:00:00.0;63
+Ecuador;Integracion;2022-11-07 05:00:00.0;97
+Ecuador;Integracion;2022-11-14 05:00:00.0;202
+Ecuador;Integracion;2022-11-21 05:00:00.0;56
+Ecuador;Integracion;2022-11-28 05:00:00.0;56
+Ecuador;Integracion;2022-12-05 05:00:00.0;88
+Ecuador;Integracion;2022-12-12 05:00:00.0;78
+Ecuador;Integracion;2022-12-19 05:00:00.0;63
+Ecuador;Integracion;2022-12-26 05:00:00.0;97
+Ecuador;Integracion;2023-01-02 05:00:00.0;70
+Ecuador;Integracion;2023-01-09 05:00:00.0;96
+Ecuador;Integracion;2023-01-16 05:00:00.0;88
+Ecuador;Integracion;2023-01-23 05:00:00.0;106
+Ecuador;Integracion;2023-01-30 05:00:00.0;83
+Ecuador;Integracion;2023-02-06 05:00:00.0;93
+Ecuador;Integracion;2023-02-13 05:00:00.0;80
+Ecuador;Integracion;2023-02-20 05:00:00.0;96
+Ecuador;Integracion;2023-02-27 05:00:00.0;166
+Ecuador;Integracion;2023-03-06 05:00:00.0;181
+Ecuador;Integracion;2023-03-13 05:00:00.0;129
+Ecuador;Integracion;2023-03-20 05:00:00.0;130
+Ecuador;Integracion;2023-03-27 05:00:00.0;164
+Ecuador;Total Migracion;2021-12-27 05:00:00.0;270
+Ecuador;Total Migracion;2022-01-03 05:00:00.0;1324
+Ecuador;Total Migracion;2022-01-10 05:00:00.0;2249
+Ecuador;Total Migracion;2022-01-17 05:00:00.0;2301
+Ecuador;Total Migracion;2022-01-24 05:00:00.0;1785
+Ecuador;Total Migracion;2022-01-31 05:00:00.0;1637
+Ecuador;Total Migracion;2022-02-07 05:00:00.0;1439
+Ecuador;Total Migracion;2022-02-14 05:00:00.0;1325
+Ecuador;Total Migracion;2022-02-21 05:00:00.0;1544
+Ecuador;Total Migracion;2022-02-28 05:00:00.0;1184
+Ecuador;Total Migracion;2022-03-07 05:00:00.0;1657
+Ecuador;Total Migracion;2022-03-14 05:00:00.0;1240
+Ecuador;Total Migracion;2022-03-21 05:00:00.0;2186
+Ecuador;Total Migracion;2022-03-28 05:00:00.0;1168
+Ecuador;Total Migracion;2022-04-04 05:00:00.0;800
+Ecuador;Total Migracion;2022-04-11 05:00:00.0;2489
+Ecuador;Total Migracion;2022-04-18 05:00:00.0;1739
+Ecuador;Total Migracion;2022-04-25 05:00:00.0;1634
+Ecuador;Total Migracion;2022-05-02 05:00:00.0;1797
+Ecuador;Total Migracion;2022-05-09 05:00:00.0;1551
+Ecuador;Total Migracion;2022-05-16 05:00:00.0;1742
+Ecuador;Total Migracion;2022-05-23 05:00:00.0;2600
+Ecuador;Total Migracion;2022-05-30 05:00:00.0;4808
+Ecuador;Total Migracion;2022-06-06 05:00:00.0;2420
+Ecuador;Total Migracion;2022-06-13 05:00:00.0;4280
+Ecuador;Total Migracion;2022-06-20 05:00:00.0;7017
+Ecuador;Total Migracion;2022-06-27 05:00:00.0;4165
+Ecuador;Total Migracion;2022-07-04 05:00:00.0;1899
+Ecuador;Total Migracion;2022-07-11 05:00:00.0;2186
+Ecuador;Total Migracion;2022-07-18 05:00:00.0;1271
+Ecuador;Total Migracion;2022-07-25 05:00:00.0;1351
+Ecuador;Total Migracion;2022-08-01 05:00:00.0;1283
+Ecuador;Total Migracion;2022-08-08 05:00:00.0;1788
+Ecuador;Total Migracion;2022-08-15 05:00:00.0;1486
+Ecuador;Total Migracion;2022-08-22 05:00:00.0;1539
+Ecuador;Total Migracion;2022-08-29 05:00:00.0;2580
+Ecuador;Total Migracion;2022-09-05 05:00:00.0;1868
+Ecuador;Total Migracion;2022-09-12 05:00:00.0;8
+Ecuador;Total Migracion;2022-09-19 05:00:00.0;183
+Ecuador;Total Migracion;2022-09-26 05:00:00.0;1428
+Ecuador;Total Migracion;2022-10-03 05:00:00.0;1961
+Ecuador;Total Migracion;2022-10-10 05:00:00.0;6576
+Ecuador;Total Migracion;2022-10-17 05:00:00.0;3586
+Ecuador;Total Migracion;2022-10-24 05:00:00.0;4384
+Ecuador;Total Migracion;2022-10-31 05:00:00.0;2591
+Ecuador;Total Migracion;2022-11-07 05:00:00.0;2021
+Ecuador;Total Migracion;2022-11-14 05:00:00.0;2427
+Ecuador;Total Migracion;2022-11-21 05:00:00.0;1087
+Ecuador;Total Migracion;2022-11-28 05:00:00.0;1397
+Ecuador;Total Migracion;2022-12-05 05:00:00.0;1490
+Ecuador;Total Migracion;2022-12-12 05:00:00.0;2527
+Ecuador;Total Migracion;2022-12-19 05:00:00.0;1462
+Ecuador;Total Migracion;2022-12-26 05:00:00.0;1757
+Ecuador;Total Migracion;2023-01-02 05:00:00.0;1365
+Ecuador;Total Migracion;2023-01-09 05:00:00.0;2732
+Ecuador;Total Migracion;2023-01-16 05:00:00.0;2221
+Ecuador;Total Migracion;2023-01-23 05:00:00.0;3186
+Ecuador;Total Migracion;2023-01-30 05:00:00.0;2363
+Ecuador;Total Migracion;2023-02-06 05:00:00.0;3685
+Ecuador;Total Migracion;2023-02-13 05:00:00.0;5619
+Ecuador;Total Migracion;2023-02-20 05:00:00.0;4047
+Ecuador;Total Migracion;2023-02-27 05:00:00.0;1938
+Ecuador;Total Migracion;2023-03-06 05:00:00.0;5848
+Ecuador;Total Migracion;2023-03-13 05:00:00.0;4099
+Ecuador;Total Migracion;2023-03-20 05:00:00.0;3577
+Ecuador;Total Migracion;2023-03-27 05:00:00.0;1800
+Colombia;Total Migracion;2020-12-28 05:00:00.0;2291
+Colombia;Total Migracion;2021-01-04 05:00:00.0;6262
+Colombia;Total Migracion;2021-01-11 05:00:00.0;8729
+Colombia;Total Migracion;2021-01-18 05:00:00.0;8292
+Colombia;Total Migracion;2021-01-25 05:00:00.0;10793
+Colombia;Total Migracion;2021-02-01 05:00:00.0;6905
+Colombia;Total Migracion;2021-02-08 05:00:00.0;47416
+Colombia;Total Migracion;2021-02-15 05:00:00.0;9921
+Colombia;Total Migracion;2021-02-22 05:00:00.0;9784
+Colombia;Total Migracion;2021-03-01 05:00:00.0;9419
+Colombia;Total Migracion;2021-03-08 05:00:00.0;38318
+Colombia;Total Migracion;2021-03-15 05:00:00.0;13629
+Colombia;Total Migracion;2021-03-22 05:00:00.0;11163
+Colombia;Total Migracion;2021-03-29 05:00:00.0;10689
+Colombia;Total Migracion;2021-04-05 05:00:00.0;8585
+Colombia;Total Migracion;2021-04-12 05:00:00.0;8984
+Colombia;Total Migracion;2021-04-19 05:00:00.0;11004
+Colombia;Total Migracion;2021-04-26 05:00:00.0;16285
+Colombia;Total Migracion;2021-05-03 05:00:00.0;17934
+Colombia;Total Migracion;2021-05-10 05:00:00.0;10469
+Colombia;Total Migracion;2021-05-17 05:00:00.0;10995
+Colombia;Total Migracion;2021-05-24 05:00:00.0;10030
+Colombia;Total Migracion;2021-05-31 05:00:00.0;10679
+Colombia;Total Migracion;2021-06-07 05:00:00.0;12661
+Colombia;Total Migracion;2021-06-14 05:00:00.0;11556
+Colombia;Total Migracion;2021-06-21 05:00:00.0;7297
+Colombia;Total Migracion;2021-06-28 05:00:00.0;6861
+Colombia;Total Migracion;2021-07-05 05:00:00.0;10994
+Colombia;Total Migracion;2021-07-12 05:00:00.0;14037
+Colombia;Total Migracion;2021-07-19 05:00:00.0;9357
+Colombia;Total Migracion;2021-07-26 05:00:00.0;12723
+Colombia;Total Migracion;2021-08-02 05:00:00.0;7456
+Colombia;Total Migracion;2021-08-09 05:00:00.0;10483
+Colombia;Total Migracion;2021-08-16 05:00:00.0;26211
+Colombia;Total Migracion;2021-08-23 05:00:00.0;13269
+Colombia;Total Migracion;2021-08-30 05:00:00.0;8535
+Colombia;Total Migracion;2021-09-06 05:00:00.0;8702
+Colombia;Total Migracion;2021-09-13 05:00:00.0;10190
+Colombia;Total Migracion;2021-09-20 05:00:00.0;10798
+Colombia;Total Migracion;2021-09-27 05:00:00.0;10403
+Colombia;Total Migracion;2021-10-04 05:00:00.0;10536
+Colombia;Total Migracion;2021-10-11 05:00:00.0;11727
+Colombia;Total Migracion;2021-10-18 05:00:00.0;13474
+Colombia;Total Migracion;2021-10-25 05:00:00.0;7694
+Colombia;Total Migracion;2021-11-01 05:00:00.0;6742
+Colombia;Total Migracion;2021-11-08 05:00:00.0;6970
+Colombia;Total Migracion;2021-11-15 05:00:00.0;9217
+Colombia;Total Migracion;2021-11-22 05:00:00.0;8869
+Colombia;Total Migracion;2021-11-29 05:00:00.0;8162
+Colombia;Total Migracion;2021-12-06 05:00:00.0;9493
+Colombia;Total Migracion;2021-12-13 05:00:00.0;8597
+Colombia;Total Migracion;2021-12-20 05:00:00.0;8187
+Colombia;Total Migracion;2021-12-27 05:00:00.0;7271
+Colombia;Total Migracion;2022-01-03 05:00:00.0;8260
+Colombia;Total Migracion;2022-01-10 05:00:00.0;10602
+Colombia;Total Migracion;2022-01-17 05:00:00.0;7312
+Colombia;Total Migracion;2022-01-24 05:00:00.0;7504
+Colombia;Total Migracion;2022-01-31 05:00:00.0;8969
+Colombia;Total Migracion;2022-02-07 05:00:00.0;12812
+Colombia;Total Migracion;2022-02-14 05:00:00.0;12832
+Colombia;Total Migracion;2022-02-21 05:00:00.0;13545
+Colombia;Total Migracion;2022-02-28 05:00:00.0;14122
+Colombia;Total Migracion;2022-03-07 05:00:00.0;9639
+Colombia;Total Migracion;2022-03-14 05:00:00.0;11557
+Colombia;Total Migracion;2022-03-21 05:00:00.0;12041
+Colombia;Total Migracion;2022-03-28 05:00:00.0;10455
+Colombia;Total Migracion;2022-04-04 05:00:00.0;12120
+Colombia;Total Migracion;2022-04-11 05:00:00.0;10556
+Colombia;Total Migracion;2022-04-18 05:00:00.0;11665
+Colombia;Total Migracion;2022-04-25 05:00:00.0;8964
+Colombia;Total Migracion;2022-05-02 05:00:00.0;8816
+Colombia;Total Migracion;2022-05-09 05:00:00.0;16455
+Colombia;Total Migracion;2022-05-16 05:00:00.0;12367
+Colombia;Total Migracion;2022-05-23 05:00:00.0;14543
+Colombia;Total Migracion;2022-05-30 05:00:00.0;13109
+Colombia;Total Migracion;2022-06-06 05:00:00.0;8953
+Colombia;Total Migracion;2022-06-13 05:00:00.0;11360
+Colombia;Total Migracion;2022-06-20 05:00:00.0;14337
+Colombia;Total Migracion;2022-06-27 05:00:00.0;9107
+Colombia;Total Migracion;2022-07-04 05:00:00.0;8411
+Colombia;Total Migracion;2022-07-11 05:00:00.0;7740
+Colombia;Total Migracion;2022-07-18 05:00:00.0;5738
+Colombia;Total Migracion;2022-07-25 05:00:00.0;7027
+Colombia;Total Migracion;2022-08-01 05:00:00.0;6795
+Colombia;Total Migracion;2022-08-08 05:00:00.0;8269
+Colombia;Total Migracion;2022-08-15 05:00:00.0;7679
+Colombia;Total Migracion;2022-08-22 05:00:00.0;8746
+Colombia;Total Migracion;2022-08-29 05:00:00.0;8231
+Colombia;Total Migracion;2022-09-05 05:00:00.0;9407
+Colombia;Total Migracion;2022-09-12 05:00:00.0;10069
+Colombia;Total Migracion;2022-09-19 05:00:00.0;14018
+Colombia;Total Migracion;2022-09-26 05:00:00.0;12530
+Colombia;Total Migracion;2022-10-03 05:00:00.0;9861
+Colombia;Total Migracion;2022-10-10 05:00:00.0;17794
+Colombia;Total Migracion;2022-10-17 05:00:00.0;10026
+Colombia;Total Migracion;2022-10-24 05:00:00.0;7722
+Colombia;Total Migracion;2022-10-31 05:00:00.0;10831
+Colombia;Total Migracion;2022-11-07 05:00:00.0;11270
+Colombia;Total Migracion;2022-11-14 05:00:00.0;6506
+Colombia;Total Migracion;2022-11-21 05:00:00.0;7232
+Colombia;Total Migracion;2022-11-28 05:00:00.0;8771
+Colombia;Total Migracion;2022-12-05 05:00:00.0;7126
+Colombia;Total Migracion;2022-12-12 05:00:00.0;6442
+Colombia;Total Migracion;2022-12-19 05:00:00.0;7360
+Colombia;Total Migracion;2022-12-26 05:00:00.0;6527
+Colombia;Total Migracion;2023-01-02 05:00:00.0;7174
+Colombia;Total Migracion;2023-01-09 05:00:00.0;10011
+Colombia;Total Migracion;2023-01-16 05:00:00.0;7167
+Colombia;Total Migracion;2023-01-23 05:00:00.0;10523
+Colombia;Total Migracion;2023-01-30 05:00:00.0;8210
+Colombia;Total Migracion;2023-02-06 05:00:00.0;8592
+Colombia;Total Migracion;2023-02-13 05:00:00.0;10911
+Colombia;Total Migracion;2023-02-20 05:00:00.0;10097
+Colombia;Total Migracion;2023-02-27 05:00:00.0;3059
+Peru;Total Migracion;2020-12-28 03:00:00.0;828
+Peru;Total Migracion;2021-01-04 03:00:00.0;2646
+Peru;Total Migracion;2021-01-11 03:00:00.0;3988
+Peru;Total Migracion;2021-01-18 03:00:00.0;7121
+Peru;Total Migracion;2021-01-25 03:00:00.0;7085
+Peru;Total Migracion;2021-02-01 03:00:00.0;5249
+Peru;Total Migracion;2021-02-08 03:00:00.0;9911
+Peru;Total Migracion;2021-02-15 03:00:00.0;12522
+Peru;Total Migracion;2021-02-22 03:00:00.0;5779
+Peru;Total Migracion;2021-03-01 03:00:00.0;3183
+Peru;Total Migracion;2021-03-08 03:00:00.0;8551
+Peru;Total Migracion;2021-03-15 03:00:00.0;3070
+Peru;Total Migracion;2021-03-22 03:00:00.0;3780
+Peru;Total Migracion;2021-03-29 03:00:00.0;4571
+Peru;Total Migracion;2021-04-05 04:00:00.0;5816
+Peru;Total Migracion;2021-04-12 04:00:00.0;7815
+Peru;Total Migracion;2021-04-19 04:00:00.0;6563
+Peru;Total Migracion;2021-04-26 04:00:00.0;6882
+Peru;Total Migracion;2021-05-03 04:00:00.0;6408
+Peru;Total Migracion;2021-05-10 04:00:00.0;4782
+Peru;Total Migracion;2021-05-17 04:00:00.0;6576
+Peru;Total Migracion;2021-05-24 04:00:00.0;12805
+Peru;Total Migracion;2021-05-31 04:00:00.0;9145
+Peru;Total Migracion;2021-06-07 04:00:00.0;9597
+Peru;Total Migracion;2021-06-14 04:00:00.0;5420
+Peru;Total Migracion;2021-06-21 04:00:00.0;2999
+Peru;Total Migracion;2021-06-28 04:00:00.0;2745
+Peru;Total Migracion;2021-07-05 04:00:00.0;3324
+Peru;Total Migracion;2021-07-12 04:00:00.0;4508
+Peru;Total Migracion;2021-07-19 04:00:00.0;3038
+Peru;Total Migracion;2021-07-26 04:00:00.0;4938
+Peru;Total Migracion;2021-08-02 04:00:00.0;3495
+Peru;Total Migracion;2021-08-09 04:00:00.0;3789
+Peru;Total Migracion;2021-08-16 04:00:00.0;4019
+Peru;Total Migracion;2021-08-23 04:00:00.0;3752
+Peru;Total Migracion;2021-08-30 04:00:00.0;4844
+Peru;Total Migracion;2021-09-06 03:00:00.0;3810
+Peru;Total Migracion;2021-09-13 03:00:00.0;3085
+Peru;Total Migracion;2021-09-20 03:00:00.0;4720
+Peru;Total Migracion;2021-09-27 03:00:00.0;5129
+Peru;Total Migracion;2021-10-04 03:00:00.0;2968
+Peru;Total Migracion;2021-10-11 03:00:00.0;3151
+Peru;Total Migracion;2021-10-18 03:00:00.0;2956
+Peru;Total Migracion;2021-10-25 03:00:00.0;2242
+Peru;Total Migracion;2021-11-01 03:00:00.0;2725
+Peru;Total Migracion;2021-11-08 03:00:00.0;2602
+Peru;Total Migracion;2021-11-15 03:00:00.0;3194
+Peru;Total Migracion;2021-11-22 03:00:00.0;2901
+Peru;Total Migracion;2021-11-29 03:00:00.0;5043
+Peru;Total Migracion;2021-12-06 03:00:00.0;2674
+Peru;Total Migracion;2021-12-13 03:00:00.0;2819
+Peru;Total Migracion;2021-12-20 03:00:00.0;6558
+Peru;Total Migracion;2021-12-27 03:00:00.0;2805
+Peru;Total Migracion;2022-01-03 03:00:00.0;2023
+Peru;Total Migracion;2022-01-10 03:00:00.0;2126
+Peru;Total Migracion;2022-01-17 03:00:00.0;3486
+Peru;Total Migracion;2022-01-24 03:00:00.0;5600
+Peru;Total Migracion;2022-01-31 03:00:00.0;3173
+Peru;Total Migracion;2022-02-07 03:00:00.0;3643
+Peru;Total Migracion;2022-02-14 03:00:00.0;2974
+Peru;Total Migracion;2022-02-21 03:00:00.0;4583
+Peru;Total Migracion;2022-02-28 03:00:00.0;2827
+Peru;Total Migracion;2022-03-07 03:00:00.0;2117
+Peru;Total Migracion;2022-03-14 03:00:00.0;2794
+Peru;Total Migracion;2022-03-21 03:00:00.0;2489
+Peru;Total Migracion;2022-03-28 03:00:00.0;1845
+Peru;Total Migracion;2022-04-04 04:00:00.0;3810
+Peru;Total Migracion;2022-04-11 04:00:00.0;2970
+Peru;Total Migracion;2022-04-18 04:00:00.0;2567
+Peru;Total Migracion;2022-04-25 04:00:00.0;2324
+Peru;Total Migracion;2022-05-02 04:00:00.0;6135
+Peru;Total Migracion;2022-05-09 04:00:00.0;5098
+Peru;Total Migracion;2022-05-16 04:00:00.0;2653
+Peru;Total Migracion;2022-05-23 04:00:00.0;2254
+Peru;Total Migracion;2022-05-30 04:00:00.0;2042
+Peru;Total Migracion;2022-06-06 04:00:00.0;1886
+Peru;Total Migracion;2022-06-13 04:00:00.0;2299
+Peru;Total Migracion;2022-06-20 04:00:00.0;2444
+Peru;Total Migracion;2022-06-27 04:00:00.0;2420
+Peru;Total Migracion;2022-07-04 04:00:00.0;2280
+Peru;Total Migracion;2022-07-11 04:00:00.0;2805
+Peru;Total Migracion;2022-07-18 04:00:00.0;1976
+Peru;Total Migracion;2022-07-25 04:00:00.0;2613
+Peru;Total Migracion;2022-08-01 04:00:00.0;2202
+Peru;Total Migracion;2022-08-08 04:00:00.0;3206
+Peru;Total Migracion;2022-08-15 04:00:00.0;2087
+Peru;Total Migracion;2022-08-22 04:00:00.0;1971
+Peru;Total Migracion;2022-08-29 04:00:00.0;2158
+Peru;Total Migracion;2022-09-05 03:00:00.0;2371
+Peru;Total Migracion;2022-09-12 03:00:00.0;2145
+Peru;Total Migracion;2022-09-19 03:00:00.0;2480
+Peru;Total Migracion;2022-09-26 03:00:00.0;3236
+Peru;Total Migracion;2022-10-03 03:00:00.0;2511
+Peru;Total Migracion;2022-10-10 03:00:00.0;4332
+Peru;Total Migracion;2022-10-17 03:00:00.0;3000
+Peru;Total Migracion;2022-10-24 03:00:00.0;2775
+Peru;Total Migracion;2022-10-31 03:00:00.0;3440
+Peru;Total Migracion;2022-11-07 03:00:00.0;2623
+Peru;Total Migracion;2022-11-14 03:00:00.0;2282
+Peru;Total Migracion;2022-11-21 03:00:00.0;2581
+Peru;Total Migracion;2022-11-28 03:00:00.0;2649
+Peru;Total Migracion;2022-12-05 03:00:00.0;3107
+Peru;Total Migracion;2022-12-12 03:00:00.0;3169
+Peru;Total Migracion;2022-12-19 03:00:00.0;2196
+Peru;Total Migracion;2022-12-26 03:00:00.0;2113
+Peru;Total Migracion;2023-01-02 03:00:00.0;2370
+Peru;Total Migracion;2023-01-09 03:00:00.0;4117
+Peru;Total Migracion;2023-01-16 03:00:00.0;4840
+Peru;Total Migracion;2023-01-23 03:00:00.0;8332
+Peru;Total Migracion;2023-01-30 03:00:00.0;4452
+Peru;Total Migracion;2023-02-06 03:00:00.0;2929
+Peru;Total Migracion;2023-02-13 03:00:00.0;2524
+Peru;Total Migracion;2023-02-20 03:00:00.0;2224
+Peru;Total Migracion;2023-02-27 03:00:00.0;811
